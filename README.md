@@ -1,6 +1,3 @@
-# Renilson Santana Santos
-
-## Sobre mim
 
 _Sou um jovem graduado em análise e desenvolvimento de sistemas pela Fatec zona sul e sou apaixonado pela cultura geek e por tecnologia._
 
